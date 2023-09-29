@@ -1,6 +1,6 @@
 <?php
 
-namespace RenatoMarinho\LaravelPageSpeed\Middleware;
+namespace RafahSBorges\LaravelPageSpeed\Middleware;
 
 class InlineCss extends PageSpeed
 {

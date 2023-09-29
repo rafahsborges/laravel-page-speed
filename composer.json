@@ -11,8 +11,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Renato Marinho",
-            "email": "renato.marinho@s2move.com"
+            "name": "Rafael Souza Borges",
+            "email": "rafahsborges@outlook.com"
         }
     ],
     "require": {
@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "RenatoMarinho\\LaravelPageSpeed\\": "src/"
+            "RafahSBorges\\LaravelPageSpeed\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "RenatoMarinho\\LaravelPageSpeed\\Test\\": "tests"
+            "RafahSBorges\\LaravelPageSpeed\\Test\\": "tests"
         }
     },
     "scripts": {
@@ -45,7 +45,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "RenatoMarinho\\LaravelPageSpeed\\ServiceProvider"
+                "RafahSBorges\\LaravelPageSpeed\\ServiceProvider"
             ]
         }
     }
